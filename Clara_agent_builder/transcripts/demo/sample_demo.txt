@@ -1,0 +1,7 @@
+Ben runs an electrical contracting business handling
+residential and commercial jobs.
+
+He wants Clara AI to answer calls, qualify jobs,
+and schedule service appointments.
+
+The company currently uses Jobber CRM.
