@@ -1,5 +1,6 @@
 # clara_agent_builder
 Clara AI Assignment submission
+VIDEO ASSIGNMENT LINK: https://www.loom.com/share/0d0e84cfdcf241b28f48b1f93e18353f
 
 
 This project implements an automated pipeline
