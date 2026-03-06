@@ -515,6 +515,30 @@ With production access the system could include:
 
 ---
 
+## Versioning and Diff
+
+The system generates a v1 agent configuration from the demo call.
+
+When onboarding data becomes available the pipeline would:
+
+1. Update the account memo
+2. Generate a v2 agent configuration
+3. Produce a changelog highlighting differences between versions.
+
+Example structure:
+
+outputs/accounts/<account_id>/
+    v1/
+    v2/
+    changelog.md
+
+    ## Task Tracking
+
+GitHub Issues can be used as the task tracking system.
+
+Each account processing step can be logged as an issue
+tracking the pipeline progress from demo call to onboarding update.
+
 
 
 \# Summary
